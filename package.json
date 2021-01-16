@@ -1,0 +1,24 @@
+{
+  "name": "vadik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "de1ishes",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "json-server": "^0.16.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "core-js": "^3.8.2",
+    "es6-promise": "^4.2.8",
+    "nodelist-foreach-polyfill": "^1.2.0"
+  },
+  "description": ""
+}
